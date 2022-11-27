@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+pw.text
+
+# File Hasil LaporanKeuangan
+# uploads/LaporanKeuangan.xlsx
+yarn.lock
